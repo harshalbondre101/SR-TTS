@@ -1,0 +1,4 @@
+flask
+speech_recognition
+pydub
+replicate
