@@ -1,4 +1,4 @@
 flask
-speech_recognition
+SpeechRecognition
 pydub
 replicate
